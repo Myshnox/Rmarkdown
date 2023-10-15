@@ -1,0 +1,41 @@
+---
+title: "week 4"
+date: "2023-10-15"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+# Immune system
+
+|            | Innate immunity | Adaptive immunity             |
+|------------|-----------------|-------------------------------|
+| *response* | non-specific    | pathogen and antigen specific |
+| *exposure* | immediate       | lag time                      |
+| *memory*   | no              | yes                           |
+| *present*  | all life forms  | only jawed vertebrates        |
+
+## *Disorders of human immunity*
+
+```         
+- Immunodeficiency
+- Autoimmunity
+- Hypersensitivity
+- Idiopathic inflammation
+```
+
+```{r echo=FALSE, , echo=TRUE}
+2+7
+5-2
+```
+
+## Hypersensitivity types
+
+1.  Type I allergy antigens
+2.  Type II cellular dysfunction by antibodies
+3.  Type III abnormal immune response by antibodies
+4.  Type IV T cell-mediated
+
+```{r}
+#(background:`#00ced1`; character)
+```
